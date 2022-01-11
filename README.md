@@ -1,2 +1,2 @@
-# Trajectory-Prediction-PyTorch
-Implementation of baselines for the nuScenes dataset 
+# Trajectory Prediction - PyTorch
+Work in Progress
