@@ -5,3 +5,5 @@ nuScenes_checkpoint.pt
 nuScenes-map-expansion-v1.3.zip
 v1.0-trainval_meta.tgz
 desktop.ini
+logdir
+runs
